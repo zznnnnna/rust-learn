@@ -1,3 +1,5 @@
+use std::path::Component::Prefix;
+
 fn main() {
     println!("Hello, world!");
     /*
@@ -10,8 +12,20 @@ fn main() {
     2.数字不能开头
     3.变量名区分大小写
 
+    可变变量
+    mut关键字 mutable缩写
+    let mut 变量名=值;
+    let mut 变量名：数据类型=值；
+
+
+    可变变量
+
     */
 
     let study="";
-    println!("study {}",study)
+    println!("study {}",study);
+
+    let mut price=188;
+    price=288;
+    println!("{}",price)
 }
