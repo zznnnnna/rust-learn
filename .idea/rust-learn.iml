@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/const_07/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/enum_18/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/function_11/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generic_20/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/loop_10/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ownership_and_move_14/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/slice_16/src" isTestSource="false" />
@@ -25,6 +26,7 @@
       <excludeFolder url="file://$MODULE_DIR$/struct_17/target" />
       <excludeFolder url="file://$MODULE_DIR$/enum_18/target" />
       <excludeFolder url="file://$MODULE_DIR$/collection_19/target" />
+      <excludeFolder url="file://$MODULE_DIR$/generic_20/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
