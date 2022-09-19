@@ -6,9 +6,11 @@
       <sourceFolder url="file://$MODULE_DIR$/const_07/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/function_11/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/loop_10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tuple_12/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/loop_10/target" />
       <excludeFolder url="file://$MODULE_DIR$/const_07/target" />
       <excludeFolder url="file://$MODULE_DIR$/function_11/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tuple_12/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
