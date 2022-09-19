@@ -4,6 +4,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/arr_13/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/borrowing_15/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/const_07/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/function_11/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/loop_10/src" isTestSource="false" />
@@ -15,6 +16,7 @@
       <excludeFolder url="file://$MODULE_DIR$/tuple_12/target" />
       <excludeFolder url="file://$MODULE_DIR$/arr_13/target" />
       <excludeFolder url="file://$MODULE_DIR$/ownership_and_move_14/target" />
+      <excludeFolder url="file://$MODULE_DIR$/borrowing_15/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
