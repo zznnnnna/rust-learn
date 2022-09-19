@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/function_11/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/loop_10/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ownership_and_move_14/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/slice_16/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tuple_12/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/loop_10/target" />
       <excludeFolder url="file://$MODULE_DIR$/const_07/target" />
@@ -17,6 +18,7 @@
       <excludeFolder url="file://$MODULE_DIR$/arr_13/target" />
       <excludeFolder url="file://$MODULE_DIR$/ownership_and_move_14/target" />
       <excludeFolder url="file://$MODULE_DIR$/borrowing_15/target" />
+      <excludeFolder url="file://$MODULE_DIR$/slice_16/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
