@@ -55,3 +55,4 @@ rustc main.rs
 32 match 匹配
 33 另一种匹配方式 if let  while let
 34 闭包的使用
+35 异步等待
