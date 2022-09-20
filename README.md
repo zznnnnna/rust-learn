@@ -48,3 +48,4 @@ rustc main.rs
 25  线程
 26  错误处理
 27 指针
+28 cargo 包管理
