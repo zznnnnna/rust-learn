@@ -27,6 +27,7 @@
       <sourceFolder url="file://$MODULE_DIR$/30_scope/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/31_alias_conver/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/32_match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/33_iflet_whilelet/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/loop_10/target" />
       <excludeFolder url="file://$MODULE_DIR$/function_11/target" />
       <excludeFolder url="file://$MODULE_DIR$/tuple_12/target" />
@@ -51,6 +52,7 @@
       <excludeFolder url="file://$MODULE_DIR$/30_scope/target" />
       <excludeFolder url="file://$MODULE_DIR$/31_alias_conver/target" />
       <excludeFolder url="file://$MODULE_DIR$/32_match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/33_iflet_whilelet/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
