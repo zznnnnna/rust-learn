@@ -54,3 +54,4 @@ rustc main.rs
 31 别名 类型转换
 32 match 匹配
 33 另一种匹配方式 if let  while let
+34 闭包的使用
