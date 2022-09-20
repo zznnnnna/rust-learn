@@ -23,6 +23,9 @@
       <sourceFolder url="file://$MODULE_DIR$/26_coverable/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/27_pointer/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/28_cargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/29_modules/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/30_scope/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/31_alias_conver/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/loop_10/target" />
       <excludeFolder url="file://$MODULE_DIR$/function_11/target" />
       <excludeFolder url="file://$MODULE_DIR$/tuple_12/target" />
@@ -43,6 +46,9 @@
       <excludeFolder url="file://$MODULE_DIR$/26_coverable/target" />
       <excludeFolder url="file://$MODULE_DIR$/27_pointer/target" />
       <excludeFolder url="file://$MODULE_DIR$/28_cargo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/29_modules/target" />
+      <excludeFolder url="file://$MODULE_DIR$/30_scope/target" />
+      <excludeFolder url="file://$MODULE_DIR$/31_alias_conver/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

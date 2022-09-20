@@ -49,3 +49,6 @@ rustc main.rs
 26  错误处理
 27 指针
 28 cargo 包管理
+29 modules
+30 scope变量绑定
+31 别名 类型转换
