@@ -19,6 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/19_collection/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/20_generic/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/24_closure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25_thread/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/loop_10/target" />
       <excludeFolder url="file://$MODULE_DIR$/function_11/target" />
       <excludeFolder url="file://$MODULE_DIR$/tuple_12/target" />
@@ -35,6 +36,7 @@
       <excludeFolder url="file://$MODULE_DIR$/07_const/target" />
       <excludeFolder url="file://$MODULE_DIR$/20_generic/target" />
       <excludeFolder url="file://$MODULE_DIR$/18_enum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/25_thread/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
