@@ -41,6 +41,7 @@ impl Employees{
 
     pub fn create(employee:Employee)->Result<Self,CustomError>{
         let conn=db::connection()?;
+        println!("create fn get employee is {:?}",employee);
         let employee = Employee::from(employee);
         let employee = diesel::insert_into(employees::table)
             .values(employee)
