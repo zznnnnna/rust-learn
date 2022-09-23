@@ -30,6 +30,7 @@
       <sourceFolder url="file://$MODULE_DIR$/33_iflet_whilelet/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/34_closure/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/35_async_awit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/project_demo/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/loop_10/target" />
       <excludeFolder url="file://$MODULE_DIR$/function_11/target" />
       <excludeFolder url="file://$MODULE_DIR$/tuple_12/target" />
@@ -57,6 +58,7 @@
       <excludeFolder url="file://$MODULE_DIR$/33_iflet_whilelet/target" />
       <excludeFolder url="file://$MODULE_DIR$/34_closure/target" />
       <excludeFolder url="file://$MODULE_DIR$/35_async_awit/target" />
+      <excludeFolder url="file://$MODULE_DIR$/project_demo/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

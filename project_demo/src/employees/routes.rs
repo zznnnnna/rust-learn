@@ -18,6 +18,7 @@ async fn find(id: web::Path<i32>) -> Result<HttpResponse, CustomError> {
 
 #[post("/employees")]
 async fn create(employee: web::Json<Employee>) -> Result<HttpResponse, CustomError> {
+    println!("employees is {:?}",employee);
     let employee = Employees::create(employee.into_inner())?;
     Ok(HttpResponse::Ok().json(employee))
 }

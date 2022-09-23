@@ -4,7 +4,7 @@ use crate::schema::employees;
 use diesel::prelude::*;
 use serde::{Deserialize, Serialize};
 
-#[derive(Serialize, Deserialize, AsChangeset, Insertable)]
+#[derive(Serialize, Deserialize, AsChangeset, Insertable,Debug)]
 #[table_name = "employees"]
 pub struct Employee {
     pub first_name: String,
