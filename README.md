@@ -8,6 +8,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh\n
 rustc -V
 
 cargo -V
+
+rustup default 1.58.1
 ```
 
 
@@ -56,3 +58,80 @@ rustc main.rs
 33 另一种匹配方式 if let  while let
 34 闭包的使用
 35 异步等待
+
+
+
+三、创表语句
+```sql
+create table employees
+(
+    first_name varchar,
+    last_name  varchar,
+    department varchar,
+    salary     integer,
+    age        integer,
+    id         serial
+);
+```
+
+
+
+### 四、问题记录
+
+1、ld: library not found for -lpq 
+ 原因：本地没安装postgres
+ brew install postgres
+
+
+### 五、交叉编译
+
+ .cargo/config
+
+```txt
+[target.x86_64-unknown-linux-musl]
+linker = "x86_64-linux-musl-gcc"
+[target.x86_64-pc-windows-gnu]
+linker = "x86_64-w64-mingw32-gcc"
+ar = "x86_64-w64-mingw32-gcc-ar"
+```
+
+linux
+```shell
+rustup target add x86_64-unknown-linux-musl
+#下载arm库
+rustup target add aarch64-unknown-linux-gnu
+
+#安装musl-cross
+brew install filosottile/musl-cross/musl-cross
+```
+
+脚本：
+```shell
+if [[ $(echo $0 | awk '/^//') == $0 ]]; then
+    ABSPATH=$(dirname $0)
+else
+    ABSPATH=$PWD/$(dirname $0)
+fi
+cd ${ABSPATH}
+cargo build --release --target x86_64-unknown-linux-musl
+```
+
+
+windows
+    
+脚本：
+```shell
+rustup target add x86_64-pc-windows-gnu
+#安装mingw-w64
+brew install mingw-w64
+```
+
+```shell
+if [[ $(echo $0 | awk '/^//') == $0 ]]; then
+    ABSPATH=$(dirname $0)
+else
+    ABSPATH=$PWD/$(dirname $0)
+fi
+cd ${ABSPATH}
+cargo build --release --target x86_64-pc-windows-gnu
+```
