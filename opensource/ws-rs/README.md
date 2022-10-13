@@ -14,7 +14,7 @@ listen("127.0.0.1:3012", |out| {
 Introduction
 ------------
 [![Build Status](https://travis-ci.org/housleyjk/ws-rs.svg?branch=stable)](https://travis-ci.org/housleyjk/ws-rs)
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Crate](http://meritbadge.herokuapp.com/ws)](https://crates.io/crates/ws)
 
 **[Homepage](https://github.com/housleyjk/ws-rs/)**

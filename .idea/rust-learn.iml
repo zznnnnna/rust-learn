@@ -12,28 +12,34 @@
       <sourceFolder url="file://$MODULE_DIR$/slice_16/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/struct_17/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tuple_12/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/07_const/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/13_arr/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/15_borrowing/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/18_enum/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/19_collection/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/20_generic/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/24_closure/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/25_thread/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/26_coverable/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/27_pointer/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/28_cargo/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/29_modules/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/30_scope/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/31_alias_conver/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/32_match/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/33_iflet_whilelet/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/34_closure/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/35_async_awit/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/project_demo/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ws-rs/examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ws-rs/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ws-rs/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/opensource/ws-rs/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/opensource/ws-rs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/opensource/ws-rs/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/function/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/gussing_game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/slice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/variables_datatype/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/07_const/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/13_arr/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/15_borrowing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/18_enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/19_collection/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/20_generic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/24_closure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/25_thread/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/26_coverable/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/27_pointer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/28_cargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/29_modules/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/30_scope/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/31_alias_conver/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/32_match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/33_iflet_whilelet/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/34_closure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/35_async_awit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-learning/project_demo/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/loop_10/target" />
       <excludeFolder url="file://$MODULE_DIR$/function_11/target" />
       <excludeFolder url="file://$MODULE_DIR$/tuple_12/target" />
@@ -43,26 +49,32 @@
       <excludeFolder url="file://$MODULE_DIR$/io_21/target" />
       <excludeFolder url="file://$MODULE_DIR$/file_22/target" />
       <excludeFolder url="file://$MODULE_DIR$/iterator_23/target" />
-      <excludeFolder url="file://$MODULE_DIR$/13_arr/target" />
-      <excludeFolder url="file://$MODULE_DIR$/15_borrowing/target" />
-      <excludeFolder url="file://$MODULE_DIR$/24_closure/target" />
-      <excludeFolder url="file://$MODULE_DIR$/19_collection/target" />
-      <excludeFolder url="file://$MODULE_DIR$/07_const/target" />
-      <excludeFolder url="file://$MODULE_DIR$/20_generic/target" />
-      <excludeFolder url="file://$MODULE_DIR$/18_enum/target" />
-      <excludeFolder url="file://$MODULE_DIR$/25_thread/target" />
-      <excludeFolder url="file://$MODULE_DIR$/26_coverable/target" />
-      <excludeFolder url="file://$MODULE_DIR$/27_pointer/target" />
-      <excludeFolder url="file://$MODULE_DIR$/28_cargo/target" />
-      <excludeFolder url="file://$MODULE_DIR$/29_modules/target" />
-      <excludeFolder url="file://$MODULE_DIR$/30_scope/target" />
-      <excludeFolder url="file://$MODULE_DIR$/31_alias_conver/target" />
-      <excludeFolder url="file://$MODULE_DIR$/32_match/target" />
-      <excludeFolder url="file://$MODULE_DIR$/33_iflet_whilelet/target" />
-      <excludeFolder url="file://$MODULE_DIR$/34_closure/target" />
-      <excludeFolder url="file://$MODULE_DIR$/35_async_awit/target" />
-      <excludeFolder url="file://$MODULE_DIR$/project_demo/target" />
-      <excludeFolder url="file://$MODULE_DIR$/ws-rs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/opensource/ws-rs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/34_closure/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/project_demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/30_scope/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/26_coverable/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/28_cargo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/15_borrowing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/13_arr/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/07_const/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/32_match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/33_iflet_whilelet/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/31_alias_conver/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/29_modules/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/35_async_awit/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/25_thread/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/27_pointer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/24_closure/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/18_enum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/20_generic/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-learning/19_collection/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/gussing_game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/variables_datatype/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/function/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/loops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/slice/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
