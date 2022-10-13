@@ -2,7 +2,7 @@
 fn main() {
     println!("Hello, world!");
     /*
-    const 常量名称：数据类型=值
+    const 常量名称：基础语法=值
     常量名称通常是大写字母
     常量可以在任何地方定义 常量只是一个符号 编译时替换为具体的值
     static 具有 ’static生命周期的 可以是可变的变量（static mut关键字）

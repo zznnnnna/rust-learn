@@ -15,7 +15,7 @@ fn main() {
     可变变量
     mut关键字 mutable缩写
     let mut 变量名=值;
-    let mut 变量名：数据类型=值；
+    let mut 变量名：基础语法=值；
 
 
     可变变量

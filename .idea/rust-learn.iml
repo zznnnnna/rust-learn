@@ -15,12 +15,13 @@
       <sourceFolder url="file://$MODULE_DIR$/opensource/ws-rs/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/opensource/ws-rs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/opensource/ws-rs/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/datatype/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/function/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/gussing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/loops/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/ownership/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/slice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rust-doc/variables_datatype/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/structs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-learning/07_const/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-learning/13_arr/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-learning/15_borrowing/src" isTestSource="false" />
@@ -70,11 +71,12 @@
       <excludeFolder url="file://$MODULE_DIR$/rust-learning/20_generic/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-learning/19_collection/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-doc/gussing_game/target" />
-      <excludeFolder url="file://$MODULE_DIR$/rust-doc/variables_datatype/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/datatype/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-doc/function/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-doc/loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-doc/ownership/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-doc/slice/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/structs/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
