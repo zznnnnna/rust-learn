@@ -16,11 +16,15 @@
       <sourceFolder url="file://$MODULE_DIR$/opensource/ws-rs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/opensource/ws-rs/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/datatype/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/enums/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/function/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/gussing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/options/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/ownership/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/slice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/struct_02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/struct_03/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-doc/structs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-learning/07_const/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-learning/13_arr/src" isTestSource="false" />
@@ -77,6 +81,10 @@
       <excludeFolder url="file://$MODULE_DIR$/rust-doc/ownership/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-doc/slice/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-doc/structs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/struct_02/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/struct_03/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/options/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
