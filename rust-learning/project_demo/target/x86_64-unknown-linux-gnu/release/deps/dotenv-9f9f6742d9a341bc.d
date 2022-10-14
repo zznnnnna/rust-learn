@@ -1,0 +1,11 @@
+/rust-learn/project_demo/target/x86_64-unknown-linux-gnu/release/deps/dotenv-9f9f6742d9a341bc.rmeta: /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/lib.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/parse.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/errors.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/iter.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/find.rs
+
+/rust-learn/project_demo/target/x86_64-unknown-linux-gnu/release/deps/libdotenv-9f9f6742d9a341bc.rlib: /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/lib.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/parse.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/errors.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/iter.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/find.rs
+
+/rust-learn/project_demo/target/x86_64-unknown-linux-gnu/release/deps/dotenv-9f9f6742d9a341bc.d: /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/lib.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/parse.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/errors.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/iter.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/find.rs
+
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/lib.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/parse.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/errors.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/iter.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/dotenv-0.11.0/src/find.rs:

@@ -1,0 +1,10 @@
+/rust-learn/project_demo/target/release/deps/libasync_trait-e8168bcac8dcc3dc.so: /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/lib.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/args.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/expand.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/lifetime.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/parse.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/receiver.rs
+
+/rust-learn/project_demo/target/release/deps/async_trait-e8168bcac8dcc3dc.d: /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/lib.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/args.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/expand.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/lifetime.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/parse.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/receiver.rs
+
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/lib.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/args.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/expand.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/lifetime.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/parse.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/async-trait-0.1.57/src/receiver.rs:

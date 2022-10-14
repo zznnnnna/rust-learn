@@ -1,0 +1,10 @@
+/rust-learn/project_demo/target/release/deps/migrations_internals-78f725db161eaa44.rmeta: /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/lib.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/connection.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/migration.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/schema.rs
+
+/rust-learn/project_demo/target/release/deps/libmigrations_internals-78f725db161eaa44.rlib: /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/lib.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/connection.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/migration.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/schema.rs
+
+/rust-learn/project_demo/target/release/deps/migrations_internals-78f725db161eaa44.d: /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/lib.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/connection.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/migration.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/schema.rs
+
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/lib.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/connection.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/migration.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/migrations_internals-1.4.1/src/schema.rs:

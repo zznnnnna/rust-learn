@@ -1,0 +1,10 @@
+/rust-learn/project_demo/target/x86_64-unknown-linux-gnu/release/deps/error_chain-540a5ca8efa8f3cd.rmeta: /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/lib.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/impl_error_chain_kind.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/error_chain.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/quick_main.rs
+
+/rust-learn/project_demo/target/x86_64-unknown-linux-gnu/release/deps/liberror_chain-540a5ca8efa8f3cd.rlib: /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/lib.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/impl_error_chain_kind.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/error_chain.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/quick_main.rs
+
+/rust-learn/project_demo/target/x86_64-unknown-linux-gnu/release/deps/error_chain-540a5ca8efa8f3cd.d: /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/lib.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/impl_error_chain_kind.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/error_chain.rs /usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/quick_main.rs
+
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/lib.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/impl_error_chain_kind.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/error_chain.rs:
+/usr/local/cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/error-chain-0.11.0/src/quick_main.rs:

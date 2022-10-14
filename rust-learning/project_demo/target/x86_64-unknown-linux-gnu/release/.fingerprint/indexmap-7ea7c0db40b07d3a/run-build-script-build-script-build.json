@@ -1,0 +1,1 @@
+{"rustc":9289672224281493355,"features":"","target":0,"profile":0,"path":0,"deps":[[469271197183527856,"build_script_build",false,7676984836817867019]],"local":[{"RerunIfChanged":{"output":"x86_64-unknown-linux-gnu/release/build/indexmap-7ea7c0db40b07d3a/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
