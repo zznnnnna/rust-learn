@@ -45,6 +45,11 @@
       <sourceFolder url="file://$MODULE_DIR$/rust-learning/34_closure/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-learning/35_async_awit/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust-learning/project_demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/map/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/panic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/result/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-doc/vec_01/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/loop_10/target" />
       <excludeFolder url="file://$MODULE_DIR$/function_11/target" />
       <excludeFolder url="file://$MODULE_DIR$/tuple_12/target" />
@@ -85,6 +90,11 @@
       <excludeFolder url="file://$MODULE_DIR$/rust-doc/struct_03/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-doc/enums/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-doc/options/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/vec_01/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/map/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/panic/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-doc/result/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
